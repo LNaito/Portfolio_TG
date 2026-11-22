@@ -62,7 +62,7 @@ O primeiro Projeto Integrador desenvolvido foi o Scrum Tech, tendo como cliente 
 
 E para provar o progresso dos usuários, cada módulo do curso conta com um quizz que testa os seus conhecimentos, ele pode ser refeito várias vezes mas é obrigatório para o avanço do usuário. O administrador tem seu próprio dashboard onde pode cadastrar novos funcionários e checar o progresso geral de sua equipe no curso, permitindo uma gerência e garantindo o aproveitamento da aplicação.
 
-<h4><details><br>
+<details><br>
 <summary>🔎 Mais detalhes do projeto.</summary>
 
 ## <b>Base inicial: Telas e navegação</b>
@@ -99,7 +99,7 @@ Os usuários do sistema podem se cadastrar e ter uma área própria para o seu p
 <video controls src="imgs\api1\desempenho_avaliação.mp4" width="480" height="270" >">
 </video>
 
-</details></h4>
+</details>
 <br>
 <hr>
 
@@ -148,7 +148,7 @@ Nesse primeiro projeto, tive de aprender lições fundamentais para trabalho em 
 ## Segundo Semestre (2025.1) | UnderDEVS IDE
 O segundo Projeto Integrador desenvolvido foi o UnderDEVS IDE, tendo como cliente os professores Giuliano Bertotti e Juliana Pasquini do corpo docente da FATEC. O cliente precisava de uma IDE (Ambiente de Desenvolvimento Integrado), uma aplicação para escrita e edição de código em Java e que possuísse assistência de Inteligência Artificial para auxiliar o desenvolvedor com soluções para erros, melhorias de estrutura e sugestões de código.
 
-<h4><details><br>
+<details><br>
 <summary>🔎 Mais detalhes do projeto.</summary>
 
 ## <b>Funções da IDE</b>
@@ -164,7 +164,7 @@ Além disso, você também pode melhorar o prompt ou criar novos prompts para a 
 <video controls src="imgs\api2\UnderDevs IDE - API 2° Semestre - XvierDev (1080p, h264).mp4" width="480" height="270" >">
 </video>
 
-</details></h4>
+</details>
 <br>
 <hr>
 
@@ -212,7 +212,7 @@ O terceiro Projeto Integrador desenvolvido foi a EntreNovaFlix, tendo pela prime
 Assim, focamos em construir uma plataforma que utilizasse da identidade visual da Entrenova e que atendesse as empresas que buscavam da melhor forma possível, através de Dashboards e um ChatBot de IA que fazia uma série de perguntas, ajustando o conteúdo oferecido pela Entrenova de acordo com as respostas.
 
 
-<h4><details><br>
+<details><br>
 <summary>🔎 Mais detalhes do projeto.</summary>
 
 ## <b>Dashboard: Empresa</b>
@@ -236,7 +236,7 @@ A Entrenova pode acompanhar o estado geral de seu site através de um Dashboard 
   <img src="imgs\api3\AnaliseDeEmpresas.png" alt="AnaliseEmpresas"/>
 
 
-</details></h4>
+</details>
 <br>
 <hr>
 
@@ -285,7 +285,7 @@ O quarto Projeto Integrador desenvolvido foi o BluePrint, tendo como cliente o E
 Nosso objetivo então foi fazer uma aplicação web que analisaria arquivos DXF de obras, onde a IA iria analisar e gerar documentos quantitativos e orçamentários, porém, ainda permitindo a análise humana para evitar erros graves.
 
 
-<h4><details><br>
+<details><br>
 <summary>🔎 Mais detalhes do projeto.</summary>
 
 ## <b>Processo completo de cadastrar uma obra</b>
@@ -295,7 +295,7 @@ No Blueprint, após o cadastro, você pode cadastrar obras para que a IA analise
 <video controls src="imgs\api4\Blueprint - Equipe Sul - Demonstração do Produto Final - João Álvaro (1080p, h264).mp4" width="480" height="270" >">
 </video>
 
-</details></h4>
+</details>
 <br>
 <hr>
 
