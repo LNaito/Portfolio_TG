@@ -69,42 +69,28 @@ E para provar o progresso dos usuários, cada módulo do curso conta com um quiz
 
 Inicialmente, decidimos os elementos básicos para o visual do site, puxando sua identidade para algo amigável e que dê um ar didático, por isso escolhemos o azul como nossa cor principal. No vídeo abaixo demonstramos a navegação do site feita inicialmente, ainda possuindo textos incompletos que foram preenchidos conforme o avanço das sprints.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api1/site.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
-
-
 Também trabalhamos para que a aplicação fosse responsiva, sendo possível utilizar ela em diversos dispositivos. Isso ganha valor de acordo que um usuário pode querer avançar no curso em seu tempo livre em qualquer lugar.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api1/responsividade.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+
+  <img src="imgs\api1\Site.png" alt="Site" width="480" height="270"/>
+
+  <img src="imgs\api1\Responsividade.png" alt="Responsividade" width="480" height="270"/>
+
 
 ## <b>Quizzes de conhecimento</b>
 
 Como citado anteriormente, utilizamos de quizzes ao final de certas etapas do curso de Scrum para testar o conhecimento passado sobre a metodologia. Existem dois tipos de quizzes: Um mais curto presente ao final de cada módulo e um final, possuindo 20 perguntas. Cada um desses testes pode ser refeito quantas vezes for necessário, mas é necessário atingir uma nota mínima para passar.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api1/quiz.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+  <img src="imgs\api1\quiz.png" alt="Quiz" width="480" height="270"/>
 
 
 ## <b>Perfil: Login, comentários e desempenho</b>
 
 Os usuários do sistema podem se cadastrar e ter uma área própria para o seu perfil, onde podem acompanhar o desempenho geral das suas avaliações, que depois podem ser conferidas pelo Admin, e também deixar comentários sobre o curso para o seu gerente ter uma noção do que eles acharam da experiência.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api1/login_comentario.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+  <img src="imgs\api1\logincomentario.png" alt="LoginComentario" width="480" height="270"/>
 
-<video controls width="480" height="270">
-    <source src="./imgs/api1/desempenho_avaliação.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+  <img src="imgs\api1\Desempenho.png" alt="Desempenho" width="480" height="270"/>
 
 </details>
 <br>
@@ -168,10 +154,8 @@ Com um Design mais simplista, o UnderDEVs IDE, além das funções básicas de u
 
 Além disso, você também pode melhorar o prompt ou criar novos prompts para a IA ser melhorada conforme o uso da aplicação.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api2/UnderDevsIDE.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+>Vídeo demonstrando as principais funcionalidades da IDE.  
+[![Vídeo de demonstração do funcionamento do projeto.](https://img.youtube.com/vi/aAc457nVHqI/0.jpg)](https://www.youtube.com/watch?v=aAc457nVHqI)
 
 </details>
 <br>
@@ -301,10 +285,8 @@ Nosso objetivo então foi fazer uma aplicação web que analisaria arquivos DXF 
 
 No Blueprint, após o cadastro, você pode cadastrar obras para que a IA analise, mandando um documento DXF. Após isso, você pode gerar o memorial descritivo, que lhe dá um documento da leitura da IA sobre os elementos daquela obra, ou orçamentário, que seguindo a tabela SINAPI, lhe dá os preços necessários para fazer o orçamento. Então o usuário recebe um painel listando tudo encontrado, onde pode ele mesmo editar e garantir a segurança da aprovação daquela obra.
 
-<video controls width="480" height="270">
-    <source src="./imgs/api4/BluePrint.mp4" type="video/mp4">
-    Seu navegador não suporta vídeos HTML5.
-</video>
+>Vídeo demonstrando o fluxo completo da BluePrint.  
+[![Vídeo de demonstração do funcionamento do projeto.](./imgs/api4/vidS3Thumb.png)](https://www.youtube.com/watch?v=aQZifRPN6wY)
 
 </details>
 <br>
